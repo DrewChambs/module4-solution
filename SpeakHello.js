@@ -5,7 +5,7 @@
       var helloSpeaker = {};
       // Variable to hold greeting
       var speakWord = "Hello";
-      // Added method to produce diaplay
+      // Added method to produce display
       helloSpeaker.speak = function(name) {
         console.log(speakWord + " " + name);
       }
